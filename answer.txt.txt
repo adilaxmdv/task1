@@ -1,6 +1,0 @@
-Folder yaratmaq-mkdir
-new.html fayli yaratmaq-touch new.html
-new.html silmek-rm new.html
-folder silmek.-rm -rf folder
-yeniden new.txt fayli yaratmaq - touch new.txt
-new.txt faylini Githuba gondermek git push 
